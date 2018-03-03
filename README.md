@@ -12,4 +12,4 @@ So - long story short - as I take the time to learn more, clean things up and so
 
 More context details can be found on my blog @ https://diythisautomationthat.wordpress.com/
 
-Thank you!
+Thank you!!
